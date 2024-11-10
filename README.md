@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelitm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1305106300744634438/1305106324828192818/OIG4..jpg?ex=6731d27b&is=673080fb&hm=77e3e60b5bce8816ac351315e51464020fddc1b57b3454b3ac7a6d1ffbd7c8fe&"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
