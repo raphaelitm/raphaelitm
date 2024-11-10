@@ -63,12 +63,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/raphaelitm/raphaelitm/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">"He who asks a lot, learns a lot." 🌃</p>
 
 ###
